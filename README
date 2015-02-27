@@ -1,0 +1,6 @@
+1.Instrukcja kompilacji
+ gcc inf117244_s.c -Wall -o inf117244_s
+lub
+make
+2.Instrukkcja uruchomienia
+./inf117244_s
